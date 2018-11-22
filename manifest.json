@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name": "JP's classic Gmail layout",
+	"description": "This plugin gives Gmail it's cozy look from before October 2018",
+	"version": "1.0",
+	"content_scripts": [{
+		"matches": ["https://mail.google.com/*"],
+		"css": ["gmail_classic.css"]
+	}],
+	"icons": {
+		"128": "icon.png"
+	}
+}
