@@ -1,6 +1,6 @@
 # Gmail classic layout reverter for Chrome
 
-This Chrome extension brings back the compactness of the older Gmail style from before October 2018. I really like my inbox to be compact and my read/unread to have a good contrast.
+This Chrome extension brings back the compactness of the older Gmail style from before July 2018. I really like my inbox to be compact and my read/unread to have a good contrast.
 
 ## What does it do?
 This extension injects only CSS on the pages that start with `https://mail.google.com/`.
