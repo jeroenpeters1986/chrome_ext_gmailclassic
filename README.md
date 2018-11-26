@@ -14,6 +14,6 @@ After installing this extension, your Gmail will look like this:
 
 ![With extension](https://raw.githubusercontent.com/jeroenpeters1986/chrome_ext_gmailclassic/master/gmail_layout_with_this_extension.png)
 Instead of
-![Without extension](https://raw.githubusercontent.com/jeroenpeters1986/chrome_ext_gmailclassic/master/gmail_new_july2018.jpg)
+![Without extension](https://raw.githubusercontent.com/jeroenpeters1986/chrome_ext_gmailclassic/master/gmail_layout_without_this_extension.png)
 
 It's the details that make it work.
