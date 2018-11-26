@@ -12,5 +12,8 @@ The functionality of Gmail will _not_ change by using this extension.
 ## So, what does it look like?
 After installing this extension, your Gmail will look like this:
 
-![alt text](https://raw.githubusercontent.com/jeroenpeters1986/chrome_ext_gmailclassic/master/gmail_layout_with_this_extension.png)
+![With extension](https://raw.githubusercontent.com/jeroenpeters1986/chrome_ext_gmailclassic/master/gmail_layout_with_this_extension.png)
+Instead of
+![Without extension](https://raw.githubusercontent.com/jeroenpeters1986/chrome_ext_gmailclassic/master/gmail_new_july2018.jpg)
 
+It's the details that make it work.
